@@ -1,0 +1,1 @@
+The "react-rotering" project is a React-based application that aims to provide a seamless and intuitive user interface on a single page. Additionally, I have implemented a custom 404 Not Found page to handle undefined routes or user input that is not defined.
